@@ -1,14 +1,21 @@
 A315
-路由器1：
+路由器1（大黑）：
 管理员密码：visionlearning
 热点名：ZhengLab  和  ZhengLab5G
 上网密码：vision@ouc
 绑定MAC与IP： 
 	IP地址：222.195.147.14	MAC地址：30-FC-68-2D-A9-DA
 
-路由器2：
+路由器2（小黑）：
 管理员：登录名：admin，登录密码：visionlearning
 热点名：ZhengLab+
+上网密码：vision@ouc
+绑定MAC与IP： 
+	IP地址：222.195.147.23	MAC地址：78-54-2E-4F-F9-A7
+
+路由器3（小白-A302机房）：
+管理员：登录名：admin，登录密码：visionlearning
+热点名：ZhengLab++
 上网密码：vision@ouc
 绑定MAC与IP： 
 	IP地址：222.195.147.22	MAC地址：5C-63-BF-C8-25-17

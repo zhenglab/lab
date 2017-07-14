@@ -1,4 +1,4 @@
-<!-- Last Update: July 11th, 2017 -->
+<!-- Last Update: July 13th, 2017 -->
 
 # A321服务器配置汇总
 
@@ -87,7 +87,6 @@
 - HDD: 8TB (硬RAID)
 
 ## DIY
-- 负责人: 汤宁
 - CPU: Intel(R) Core(TM) i7-5960X CPU @ 3.00GHz x 16GB
 - 内存: 64GB
 - 显卡: GeForce GTX TITAN X (Maxwell架构，12GB) × 4
@@ -100,7 +99,6 @@
 - 应用软件:
 
 ## 无GPU
-- 负责人: 卢婧宇
 - CPU: Intel® Core™ i7-3770 CPU @ 3.40GHz × 8
 - 内存: 15.6GiB
 - 显卡: Intel Corporation Xeon E3-1200 v2/3rd Gen Core processor Graphics Controller (rev 09)

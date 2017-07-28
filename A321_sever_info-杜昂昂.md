@@ -1,4 +1,4 @@
-<!-- Last Update: July 13th, 2017 -->
+<!-- Last Update: July 28th, 2017 -->
 
 # A321服务器配置汇总
 
@@ -66,7 +66,7 @@
 - 负责人: 王超
 - CPU: Intel(R) Core(TM) i7-5930K CPU @ 3.50GHz × 16
 - 内存: 128GB
-- 显卡: Geforce GTX 980TI(6GB)　× 4
+- 显卡: Geforce GTX 980TI (6GB)　× 4
 - 操作系统: Xubuntu 14.04
 - SSD: 256GB + 512GB
 - HDD: 12TB (无RAID)
@@ -82,7 +82,7 @@
 - 负责人: 郑自强
 - CPU: Intel® Xeon(R) CPU E5-2640 v3 @ 2.60GHz × 16
 - 内存: 128GB
-- 显卡: NVIDIA Tesla K40(12GB) × 4
+- 显卡: NVIDIA Tesla K40 (12GB) × 4
 - 操作系统: Xubuntu 14.04
 - SSD: 256GB
 - HDD: 8TB (硬RAID)

@@ -60,7 +60,7 @@
     - `/` :  120GB
     - `home`: 232GB
 - HDD：4T × 1
-- 应用软件：待重装
+- 应用软件：
 
 ## SCW4750
 - 负责人: 王超
@@ -79,23 +79,25 @@
     - skit-learn
 
 ## SCS4450
+- 负责人: 郑自强
 - CPU: Intel® Xeon(R) CPU E5-2640 v3 @ 2.60GHz × 16
 - 内存: 128GB
 - 显卡: NVIDIA Tesla K40(12GB) × 4
-- 操作系统: 需要重装
+- 操作系统: Xubuntu 14.04
 - SSD: 256GB
 - HDD: 8TB (硬RAID)
 
 ## DIY
+- 负责人: 汤宁
 - CPU: Intel(R) Core(TM) i7-5960X CPU @ 3.00GHz x 16GB
 - 内存: 64GB
 - 显卡: GeForce GTX TITAN X (Maxwell架构，12GB) × 4
 - 操作系统: Ubuntu 16.04 LTS 64-bit（需重装）
 - SSD: 512GB x 2
-- 系统分区: 需重新划分
+- 系统分区: 
 - HDD: 4TB x 3
-- 是否已挂载：No
-- RAID: 需修复 RAID 5
+- 是否已挂载：
+- RAID:
 - 应用软件:
 
 ## 无GPU

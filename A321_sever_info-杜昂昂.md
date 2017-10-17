@@ -3,7 +3,7 @@
 # A321服务器配置汇总
 
 ## WS2020 TITAN X × 3
-- 负责人: 杜昂昂 崔金娜
+- 负责人: 崔金娜 杜昂昂
 - CPU: Intel(R) Xeon(R) CPU E5-2637 v4 @ 3.50GHz × 16
 - 内存: 128GB
 - 显卡: NVIDIA TITAN X (Pascal架构，12GB) × 3
@@ -49,7 +49,7 @@
     - python3.5：  3.5.2-2
 
 ## WS2020 GTX 1070 × 2
-- 负责人: 邱晨晨
+- 负责人: 李娜 邱晨晨
 - CPU: Inter(R) Xeon(R) CPU E5-2637 v4 @ 3.5GHz*16
 - 内存: 128GB
 - 显卡: NVIDIA GeForce GTX 1070 (8GB) × 2
@@ -79,7 +79,7 @@
     - skit-learn
 
 ## SCS4450
-- 负责人: 郑自强 李娜
+- 负责人: 郑自强
 - CPU: Intel® Xeon(R) CPU E5-2640 v3 @ 2.60GHz × 16
 - 内存: 128GB
 - 显卡: NVIDIA Tesla K40 (12GB) × 4
